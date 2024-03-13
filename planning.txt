@@ -1,0 +1,4 @@
+Login Project Planning
+
+1. Directory structure
+\t |--Login.php\n\t |--Home.php
