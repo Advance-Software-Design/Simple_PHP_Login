@@ -2,5 +2,6 @@ Login Project Planning
 
 1. Directory structure
  	|--Login.php
-	|--Home.php
+	|--Index.php
 	|--Logout.php
+	|--Logout_process.php
